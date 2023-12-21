@@ -7,7 +7,7 @@ export default function Home() {
       <p className='mt-12 mb-12 text-3xl text-center dark:text-white'>
         Hi! I 
         <span className='whitespace-nowrap'>
-          &apos;m <span className='font-bold'>Devang</span>. 
+          &apos;m <span className='font-bold'>Devanggg </span>. 
         </span>        
       </p>
       <Posts />

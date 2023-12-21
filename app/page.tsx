@@ -12,7 +12,7 @@ export default function Home() {
       </p>
 
       <p className='mt-1 mb-12 text-3xl text-center dark:text-white'>
-        Hope you like reading my experince!
+        Hope you like reading my experience!
       </p>
       <Posts />
     </main>

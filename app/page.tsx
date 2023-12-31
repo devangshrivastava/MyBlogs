@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import Posts from './components/Posts';
+import Contact from './components/Contact';
 
 export default function Home() {
   return (
@@ -15,6 +16,10 @@ export default function Home() {
         Hope you like reading my experience!
       </p>
       <Posts />
+
+      
+
+      <Contact />
     </main>
   );
 }

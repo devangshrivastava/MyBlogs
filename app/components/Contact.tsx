@@ -73,7 +73,7 @@ const Contact: FC = () => {
           />
         </div>
         <div className='text-center'>
-            <button className='hover:shadow-lg active:bg-purple-300 rounded-md bg-purple-500 py-3 px-8 text-base font-semibold text-white outline-none'>
+            <button className='hover:bg-purple-800 hover:shadow-lg active:bg-purple-300 rounded-md bg-purple-500 py-3 px-8 text-base font-semibold text-white outline-none'>
                 Submit
             </button>
         </div>

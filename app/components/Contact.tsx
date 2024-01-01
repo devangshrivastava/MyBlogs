@@ -73,10 +73,12 @@ const Contact: FC = () => {
           />
         </div>
         <div className='text-center'>
-          <button className='hover:shadow-form rounded-md bg-purple-500 py-3 px-8 text-base font-semibold text-white outline-none'>
-            Submit
-          </button>
+            <button className='hover:shadow-lg active:bg-purple-300 rounded-md bg-purple-500 py-3 px-8 text-base font-semibold text-white outline-none'>
+                Submit
+            </button>
         </div>
+
+
         {isSubmitted ? 
         <p className="text-2xl text-green-600 mt-4 text-center">
           Thank you for subscribing!
